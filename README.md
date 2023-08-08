@@ -1,6 +1,6 @@
 # -Diabetes-Prediction-Data-Mining-SJSU
 
-****Data from NHANES 2013-14 is used for diabetes classification. The focus is on selecting smallest subset of features (10 out of 37) using "Feature Importance" techniques
+Data from NHANES 2013-14 is used for diabetes classification. The focus is on selecting smallest subset of features (10 out of 37) using "Feature Importance" techniques
 
 * CatBoostClassifier
 * XGBClassifier
